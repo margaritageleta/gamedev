@@ -1,26 +1,43 @@
 # gamedev
 Game dev 3D
+
 TYPE: 3D videogame
+
 PLATFORM: mobile :calling:
+
 CONTROLLER(s): tapping + casco (?)
+
 ONLINE GAME/COOPERATIVE GAME? no (+ single-player: yes?)
+
 LOCATION_BASED? no
+
 GENRE: action
+
 SUBGENRE: survival (not horror, but perhaps a bit of stealth survival)
+
 CLASSIFICATION: to be specified (casual/serious/educational)
+
 AESTHETICS: low-poly? o no...
+
 AGE RESTRICTIONS? no
+
 GAME ENGINE: unity 3D
+
 RESOURCES: to be continued
 - https://opengameart.org (models)
 - https://share.allegorithmic.com (materials and shaders and some models)
 - https://www.youtube.com/watch?v=dYiAd_08-0k (blender for rigging)
 - https://assetstore.unity.com (assets store)
 - ANIMATIONS??? RELEVANT TOPIC!!!
+
 PLOT: animals’ migration to another part of the forest (cause: climate change, seek food, whatever?)
+
 PLAYER: carnivore mammal: wolf? (fox, lion(?), tiger) a leader of its own group
+
 CAMERA: third-person (to see all the animals)
+
 ENEMIES:  hunters/poachers (+traps), bigger dangerous  animals?
+
 GAMEPLAY:
 - Path: starting point to end point. With some possible deviation into the forest.
 - Land limits: limited land (not infinite) with movement freedom
